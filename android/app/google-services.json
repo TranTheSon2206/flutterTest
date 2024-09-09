@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "593274810667",
+    "firebase_url": "https://practicaltest-3e9d0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "practicaltest-3e9d0",
+    "storage_bucket": "practicaltest-3e9d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593274810667:android:ba9fc6fff5705fbde4956e",
+        "android_client_info": {
+          "package_name": "com.company.practicaltest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQiu_QfvG8-FQ_mJfleveuXsz8EifsKAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593274810667:android:6a46d8f62487fd57e4956e",
+        "android_client_info": {
+          "package_name": "com.company.praticaltest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQiu_QfvG8-FQ_mJfleveuXsz8EifsKAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
